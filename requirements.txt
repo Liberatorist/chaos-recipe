@@ -1,0 +1,9 @@
+pygetwindow
+pynput
+clipboard
+PyQt5
+numpy==1.23.5
+numba
+mss
+requests
+win32gui

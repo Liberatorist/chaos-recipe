@@ -1,0 +1,1975 @@
+{
+  "leagues": [
+    "Standard",
+    "Hardcore",
+    "SSF Standard",
+    "SSF Hardcore",
+    "Sanctum",
+    "Hardcore Sanctum",
+    "SSF Sanctum",
+    "HC SSF Sanctum",
+    "Ruthless Sanctum",
+    "HC Ruthless Sanctum",
+    "SSF R Sanctum",
+    "HC SSF R Sanctum"
+  ],
+  "current_leagues": "standard",
+  "colors": {
+    "Weapon": [
+      0,
+      200,
+      255
+    ],
+    "Gloves": [
+      0,
+      255,
+      0
+    ],
+    "Body": [
+      255,
+      0,
+      221
+    ],
+    "Boots": [
+      0,
+      0,
+      255
+    ],
+    "Helmet": [
+      255,
+      255,
+      0
+    ],
+    "Ring": [
+      255,
+      0,
+      0
+    ],
+    "Amulet": [
+      255,
+      0,
+      0
+    ],
+    "Belt": [
+      255,
+      0,
+      0
+    ]
+  },
+  "counters": {
+    "Weapon": 3,
+    "Body": 16,
+    "Gloves": 10,
+    "Boots": 11,
+    "Ring": 0,
+    "Amulet": 2,
+    "Belt": 6,
+    "Helmet": 10
+  },
+  "current_league": "SSF Standard",
+  "current_grab": "Chaos",
+  "window_position": [
+    2007,
+    1798
+  ],
+  "tag_map": {
+    "bow": {
+      "3x2": [
+        "Crude Bow",
+        "Thicket Bow",
+        "Crude Bow",
+        "Short Bow",
+        "Grove Bow"
+      ],
+      "4x2": [
+        "Decurve Bow",
+        "Compound Bow",
+        "Sniper Bow",
+        "Ivory Bow",
+        "Highborn Bow",
+        "Decimation Bow",
+        "Citadel Bow",
+        "Ranger Bow",
+        "Assassin Bow",
+        "Spine Bow",
+        "Imperial Bow",
+        "Harbinger Bow",
+        "Long Bow",
+        "Composite Bow",
+        "Recurve Bow",
+        "Bone Bow",
+        "Royal Bow",
+        "Death Bow",
+        "Hedron Bow",
+        "Foundry Bow",
+        "Solarine Bow",
+        "Reflex Bow",
+        "Steelwood Bow",
+        "Maraketh Bow"
+      ]
+    },
+    "onehand": {
+      "2x2": [
+        "Nailed Fist",
+        "Gouger",
+        "Tiger's Paw",
+        "Gut Ripper",
+        "Prehistoric Claw",
+        "Noble Claw",
+        "Eagle Claw",
+        "Great White Claw",
+        "Throat Stabber",
+        "Hellion's Paw",
+        "Eye Gouger",
+        "Sharktooth Claw",
+        "Vaal Claw",
+        "Imperial Claw",
+        "Terror Claw",
+        "Awl",
+        "Cat's Paw",
+        "Blinder",
+        "Timeworn Claw",
+        "Sparkling Claw",
+        "Fright Claw",
+        "Thresher Claw",
+        "Shadow Fangs",
+        "Malign Fangs",
+        "Void Fangs",
+        "Double Claw",
+        "Twin Claw",
+        "Gemini Claw"
+      ],
+      "3x1": [
+        "Glass Shank",
+        "Butcher Knife",
+        "Poignard",
+        "Boot Blade",
+        "Golden Kris",
+        "Royal Skean",
+        "Fiend Dagger",
+        "Gutting Knife",
+        "Slaughter Knife",
+        "Ambusher",
+        "Ezomyte Dagger",
+        "Skinning Knife",
+        "Platinum Kris",
+        "Imperial Skean",
+        "Demon Dagger",
+        "Carving Knife",
+        "Stiletto",
+        "Boot Knife",
+        "Copper Kris",
+        "Skean",
+        "Imp Dagger",
+        "Flaying Knife",
+        "Hollowpoint Dagger",
+        "Pressurised Dagger",
+        "Pneumatic Dagger",
+        "Prong Dagger",
+        "Trisula",
+        "Sai",
+        "Ethereal Blade",
+        "Flickerflame Blade",
+        "Flashfire Blade",
+        "Infernal Blade",
+        "Rusted Hatchet",
+        "Driftwood Club",
+        "Barbed Club",
+        "Ancestral Club",
+        "Tenderizer",
+        "Tribal Club",
+        "Spiked Club",
+        "Petrified Club",
+        "Driftwood Sceptre",
+        "Rusted Sword",
+        "Cutlass",
+        "Gemstone Sword",
+        "Corsair Sword",
+        "Copper Sword",
+        "Sabre",
+        "Variscite Blade",
+        "Driftwood Wand",
+        "Serpent Wand",
+        "Omen Wand",
+        "Demon's Horn",
+        "Imbued Wand",
+        "Opal Wand",
+        "Tornado Wand",
+        "Prophecy Wand",
+        "Driftwood Wand",
+        "Goat's Horn",
+        "Carved Wand",
+        "Quartz Wand",
+        "Spiraled Wand",
+        "Sage Wand",
+        "Faun's Horn",
+        "Engraved Wand",
+        "Crystal Wand",
+        "Convoking Wand",
+        "Assembler Wand",
+        "Congregator Wand",
+        "Accumulator Wand",
+        "Pagan Wand",
+        "Heathen Wand",
+        "Profane Wand"
+      ],
+      "3x2": [
+        "Tomahawk",
+        "Wrist Chopper",
+        "War Axe",
+        "Chest Splitter",
+        "Ceremonial Axe",
+        "Wraith Axe",
+        "Karui Axe",
+        "Siege Axe",
+        "Reaver Axe",
+        "Butcher Axe",
+        "Jade Hatchet",
+        "Vaal Hatchet",
+        "Royal Axe",
+        "Infernal Axe",
+        "Boarding Axe",
+        "Cleaver",
+        "Broad Axe",
+        "Arming Axe",
+        "Decorative Axe",
+        "Spectral Axe",
+        "Jasper Axe",
+        "Maltreatment Axe",
+        "Disapprobation Axe",
+        "Psychotic Axe",
+        "Etched Hatchet",
+        "Engraved Hatchet",
+        "Runic Hatchet",
+        "Rock Breaker",
+        "Battle Hammer",
+        "Flanged Mace",
+        "Ornate Mace",
+        "Phantom Mace",
+        "Gavel",
+        "Legion Hammer",
+        "Pernach",
+        "Auric Mace",
+        "Nightmare Mace",
+        "Stone Hammer",
+        "War Hammer",
+        "Bladed Mace",
+        "Ceremonial Mace",
+        "Dream Mace",
+        "Flare Mace",
+        "Crack Mace",
+        "Boom Mace",
+        "Wyrm Mace",
+        "Dragon Mace",
+        "Behemoth Mace",
+        "Sekhem",
+        "Crystal Sceptre",
+        "Lead Sceptre",
+        "Blood Sceptre",
+        "Royal Sceptre",
+        "Abyssal Sceptre",
+        "Karui Sceptre",
+        "Tyrant's Sekhem",
+        "Opal Sceptre",
+        "Platinum Sceptre",
+        "Darkwood Sceptre",
+        "Vaal Sceptre",
+        "Carnal Sceptre",
+        "Void Sceptre",
+        "Bronze Sceptre",
+        "Quartz Sceptre",
+        "Iron Sceptre",
+        "Ochre Sceptre",
+        "Ritual Sceptre",
+        "Shadow Sceptre",
+        "Grinning Fetish",
+        "Oscillating Sceptre",
+        "Stabilising Sceptre",
+        "Alternating Sceptre",
+        "Horned Sceptre",
+        "Stag Sceptre",
+        "Sambar Sceptre",
+        "Baselard",
+        "Battle Sword",
+        "Elder Sword",
+        "Graceful Sword",
+        "Twilight Blade",
+        "Gladius",
+        "Legion Sword",
+        "Vaal Blade",
+        "Eternal Sword",
+        "Midnight Blade",
+        "Broad Sword",
+        "War Sword",
+        "Ancient Sword",
+        "Elegant Sword",
+        "Dusk Blade",
+        "Fickle Spiritblade",
+        "Capricious Spiritblade",
+        "Anarchic Spiritblade",
+        "Hook Sword",
+        "Grappler",
+        "Tiger Hook",
+        "Energy Blade",
+        "Charan's Sword",
+        "Golden Blade"
+      ],
+      "4x1": [
+        "Rusted Spike",
+        "Burnished Foil",
+        "Estoc",
+        "Serrated Foil",
+        "Primeval Rapier",
+        "Fancy Foil",
+        "Apex Rapier",
+        "Dragonbone Rapier",
+        "Tempered Foil",
+        "Pecoraro",
+        "Spiraled Foil",
+        "Whalebone Rapier",
+        "Vaal Rapier",
+        "Jewelled Foil",
+        "Harpy Rapier",
+        "Battered Foil",
+        "Basket Rapier",
+        "Jagged Foil",
+        "Antique Rapier",
+        "Elegant Foil",
+        "Thorn Rapier",
+        "Wyrmbone Rapier",
+        "Smallsword",
+        "Courtesan Sword",
+        "Dragoon Sword"
+      ]
+    },
+    "twohand": {
+      "4x1": [
+        "Fishing Rod",
+        "Gnarled Branch",
+        "Corroded Blade"
+      ],
+      "4x2": [
+        "Military Staff",
+        "Serpentine Staff",
+        "Highborn Staff",
+        "Foul Staff",
+        "Primordial Staff",
+        "Lathi",
+        "Ezomyte Staff",
+        "Maelstr\u00f6m Staff",
+        "Imperial Staff",
+        "Judgement Staff",
+        "Primitive Staff",
+        "Long Staff",
+        "Iron Staff",
+        "Coiled Staff",
+        "Royal Staff",
+        "Vile Staff",
+        "Woodful Staff",
+        "Quarterstaff",
+        "Transformer Staff",
+        "Reciprocation Staff",
+        "Battery Staff",
+        "Crescent Staff",
+        "Moon Staff",
+        "Eclipse Staff",
+        "Capacity Rod",
+        "Potentiality Rod",
+        "Eventuality Rod",
+        "Stone Axe",
+        "Headsman Axe",
+        "Labrys",
+        "Noble Axe",
+        "Abyssal Axe",
+        "Karui Chopper",
+        "Sundering Axe",
+        "Ezomyte Axe",
+        "Vaal Axe",
+        "Despot Axe",
+        "Void Axe",
+        "Jade Chopper",
+        "Woodsplitter",
+        "Poleaxe",
+        "Double Axe",
+        "Gilded Axe",
+        "Shadow Axe",
+        "Jasper Chopper",
+        "Timber Axe",
+        "Prime Cleaver",
+        "Honed Cleaver",
+        "Apex Cleaver",
+        "Dagger Axe",
+        "Talon Axe",
+        "Fleshripper",
+        "Driftwood Maul",
+        "Steelhead",
+        "Spiny Maul",
+        "Plated Maul",
+        "Dread Maul",
+        "Karui Maul",
+        "Colossus Mallet",
+        "Piledriver",
+        "Meatgrinder",
+        "Imperial Maul",
+        "Terror Maul",
+        "Tribal Maul",
+        "Mallet",
+        "Sledgehammer",
+        "Jagged Maul",
+        "Brass Maul",
+        "Fright Maul",
+        "Totemic Maul",
+        "Great Mallet",
+        "Blunt Force Condenser",
+        "Crushing Force Magnifier",
+        "Impact Force Propagator",
+        "Morning Star",
+        "Solar Maul",
+        "Coronal Maul",
+        "Energy Blade",
+        "Highland Blade",
+        "Engraved Greatsword",
+        "Tiger Sword",
+        "Wraith Sword",
+        "Headman's Sword",
+        "Reaver Sword",
+        "Ezomyte Blade",
+        "Vaal Greatsword",
+        "Lion Sword",
+        "Infernal Sword",
+        "Longsword",
+        "Bastard Sword",
+        "Two-Handed Sword",
+        "Etched Greatsword",
+        "Ornate Sword",
+        "Spectral Sword",
+        "Butcher Sword",
+        "Footman Sword",
+        "Keyblade",
+        "Rebuking Blade",
+        "Blasting Blade",
+        "Banishing Blade",
+        "Curved Blade",
+        "Lithe Blade",
+        "Exquisite Blade"
+      ]
+    },
+    "ring": {
+      "1x1": [
+        "Breach Ring",
+        "Iron Ring",
+        "Amethyst Ring",
+        "Diamond Ring",
+        "Two-Stone Ring",
+        "Two-Stone Ring",
+        "Two-Stone Ring",
+        "Unset Ring",
+        "Coral Ring",
+        "Paua Ring",
+        "Gold Ring",
+        "Topaz Ring",
+        "Sapphire Ring",
+        "Ruby Ring",
+        "Prismatic Ring",
+        "Moonstone Ring",
+        "Steel Ring",
+        "Opal Ring",
+        "Vermillion Ring",
+        "Cerulean Ring",
+        "Iolite Ring",
+        "Golden Hoop",
+        "Cogwork Ring",
+        "Geodesic Ring",
+        "Opal Ring",
+        "Prismatic Ring",
+        "Diamond Ring",
+        "Paua Ring",
+        "Jet Ring"
+      ]
+    },
+    "amulet": {
+      "1x1": [
+        "Blue Pearl Amulet",
+        "Marble Amulet",
+        "Seaglass Amulet",
+        "Jet Amulet",
+        "Paua Amulet",
+        "Citrine Amulet",
+        "Ruby Amulet",
+        "Unset Amulet",
+        "Coral Amulet",
+        "Amber Amulet",
+        "Jade Amulet",
+        "Lapis Amulet",
+        "Gold Amulet",
+        "Onyx Amulet",
+        "Turquoise Amulet",
+        "Agate Amulet",
+        "Astrolabe Amulet",
+        "Simplex Amulet",
+        "Onyx Amulet",
+        "Black Maw Talisman",
+        "Mandible Talisman",
+        "Chrysalis Talisman",
+        "Writhing Talisman",
+        "Bonespire Talisman",
+        "Ashscale Talisman",
+        "Lone Antler Talisman",
+        "Deep One Talisman",
+        "Breakrib Talisman",
+        "Deadhand Talisman",
+        "Undying Flesh Talisman",
+        "Rot Head Talisman",
+        "Hexclaw Talisman",
+        "Primal Skull Talisman",
+        "Wereclaw Talisman",
+        "Splitnewt Talisman",
+        "Clutching Talisman",
+        "Avian Twins Talisman",
+        "Avian Twins Talisman",
+        "Avian Twins Talisman",
+        "Avian Twins Talisman",
+        "Avian Twins Talisman",
+        "Avian Twins Talisman",
+        "Fangjaw Talisman",
+        "Horned Talisman",
+        "Spinefuse Talisman",
+        "Three Rat Talisman",
+        "Monkey Twins Talisman",
+        "Longtooth Talisman",
+        "Rotfeather Talisman",
+        "Monkey Paw Talisman",
+        "Monkey Paw Talisman",
+        "Monkey Paw Talisman",
+        "Three Hands Talisman",
+        "Greatwolf Talisman"
+      ]
+    },
+    "boots": {
+      "2x2": [
+        "Two-Toned Boots",
+        "Two-Toned Boots",
+        "Two-Toned Boots",
+        "Fugitive Boots",
+        "Golden Caligae",
+        "Avian Slippers",
+        "Rawhide Boots",
+        "Goathide Boots",
+        "Deerskin Boots",
+        "Nubuck Boots",
+        "Eelskin Boots",
+        "Sharkskin Boots",
+        "Shagreen Boots",
+        "Stealth Boots",
+        "Slink Boots",
+        "Wrapped Boots",
+        "Strapped Boots",
+        "Clasped Boots",
+        "Shackled Boots",
+        "Trapper Boots",
+        "Ambush Boots",
+        "Carnal Boots",
+        "Assassin's Boots",
+        "Murder Boots",
+        "Cloudwhisper Boots",
+        "Windbreak Boots",
+        "Stormrider Boots",
+        "Runic Greaves",
+        "Runic Sollerets",
+        "Runic Sabatons",
+        "Wool Shoes",
+        "Velvet Slippers",
+        "Silk Slippers",
+        "Scholar Boots",
+        "Satin Slippers",
+        "Samite Slippers",
+        "Conjurer Boots",
+        "Arcanist Slippers",
+        "Sorcerer Boots",
+        "Duskwalk Slippers",
+        "Nightwind Slippers",
+        "Dreamquest Slippers",
+        "Iron Greaves",
+        "Steel Greaves",
+        "Plated Greaves",
+        "Reinforced Greaves",
+        "Antique Greaves",
+        "Ancient Greaves",
+        "Goliath Greaves",
+        "Vaal Greaves",
+        "Titan Greaves",
+        "Leatherscale Boots",
+        "Ironscale Boots",
+        "Bronzescale Boots",
+        "Steelscale Boots",
+        "Serpentscale Boots",
+        "Wyrmscale Boots",
+        "Hydrascale Boots",
+        "Dragonscale Boots",
+        "Chain Boots",
+        "Ringmail Boots",
+        "Mesh Boots",
+        "Riveted Boots",
+        "Zealot Boots",
+        "Soldier Boots",
+        "Legion Boots",
+        "Crusader Boots",
+        "Basemetal Treads",
+        "Darksteel Treads",
+        "Brimstone Treads",
+        "Kaom's Greaves"
+      ]
+    },
+    "helmet": {
+      "2x2": [
+        "Bone Helmet",
+        "Golden Visage",
+        "Leather Cap",
+        "Lion Pelt",
+        "Tricorne",
+        "Leather Hood",
+        "Wolf Pelt",
+        "Hunter Hood",
+        "Noble Tricorne",
+        "Ursine Pelt",
+        "Silken Hood",
+        "Sinner Tricorne",
+        "Scare Mask",
+        "Vaal Mask",
+        "Deicide Mask",
+        "Plague Mask",
+        "Iron Mask",
+        "Festival Mask",
+        "Golden Mask",
+        "Raven Mask",
+        "Callous Mask",
+        "Regicide Mask",
+        "Harlequin Mask",
+        "Gale Crown",
+        "Winter Crown",
+        "Blizzard Crown",
+        "Runic Helm",
+        "Runic Crest",
+        "Runic Crown",
+        "Vine Circlet",
+        "Mind Cage",
+        "Hubris Circlet",
+        "Iron Circlet",
+        "Torture Cage",
+        "Tribal Circlet",
+        "Bone Circlet",
+        "Lunaris Circlet",
+        "Steel Circlet",
+        "Necromancer Circlet",
+        "Solaris Circlet",
+        "Iron Hat",
+        "Royal Burgonet",
+        "Eternal Burgonet",
+        "Cone Helmet",
+        "Barbute Helmet",
+        "Close Helmet",
+        "Gladiator Helmet",
+        "Reaver Helmet",
+        "Siege Helmet",
+        "Samnite Helmet",
+        "Ezomyte Burgonet",
+        "Battered Helm",
+        "Nightmare Bascinet",
+        "Sallet",
+        "Visored Sallet",
+        "Gilded Sallet",
+        "Secutor Helm",
+        "Fencer Helm",
+        "Lacquered Helmet",
+        "Fluted Bascinet",
+        "Pig-Faced Bascinet",
+        "Sorrow Mask",
+        "Atonement Mask",
+        "Penitent Mask",
+        "Rusted Coif",
+        "Praetor Crown",
+        "Soldier Helmet",
+        "Great Helmet",
+        "Crusader Helmet",
+        "Aventail Helmet",
+        "Zealot Helmet",
+        "Great Crown",
+        "Magistrate Crown",
+        "Prophet Crown",
+        "Imp Crown",
+        "Demon Crown",
+        "Archdemon Crown",
+        "Golden Wreath"
+      ]
+    },
+    "body_armour": {
+      "3x2": [
+        "Golden Mantle",
+        "Shabby Jerkin",
+        "Glorious Leather",
+        "Coronal Leather",
+        "Cutthroat's Garb",
+        "Sharkskin Tunic",
+        "Destiny Leather",
+        "Exquisite Leather",
+        "Zodiac Leather",
+        "Assassin's Garb",
+        "Strapped Leather",
+        "Buckskin Tunic",
+        "Wild Leather",
+        "Full Leather",
+        "Sun Leather",
+        "Thief's Garb",
+        "Eelskin Tunic",
+        "Frontier Leather",
+        "Padded Vest",
+        "Crimson Raiment",
+        "Lacquered Garb",
+        "Crypt Armour",
+        "Sentinel Jacket",
+        "Varnished Coat",
+        "Blood Raiment",
+        "Sadist Garb",
+        "Carnal Armour",
+        "Oiled Vest",
+        "Padded Jacket",
+        "Oiled Coat",
+        "Scarlet Raiment",
+        "Waxed Garb",
+        "Bone Armour",
+        "Quilted Jacket",
+        "Sleek Coat",
+        "Simple Robe",
+        "Conjurer's Vestment",
+        "Spidersilk Robe",
+        "Destroyer Regalia",
+        "Savant's Robe",
+        "Necromancer Silks",
+        "Occultist's Vestment",
+        "Widowsilk Robe",
+        "Vaal Regalia",
+        "Silken Vest",
+        "Scholar's Robe",
+        "Silken Garb",
+        "Mage's Vestment",
+        "Silk Robe",
+        "Cabalist Regalia",
+        "Sage's Robe",
+        "Silken Wrap",
+        "Plate Vest",
+        "Sun Plate",
+        "Colosseum Plate",
+        "Majestic Plate",
+        "Golden Plate",
+        "Crusader Plate",
+        "Astral Plate",
+        "Gladiator Plate",
+        "Glorious Plate",
+        "Chestplate",
+        "Copper Plate",
+        "War Plate",
+        "Full Plate",
+        "Arena Plate",
+        "Lordly Plate",
+        "Bronze Plate",
+        "Battle Plate",
+        "Scale Vest",
+        "Full Wyrmscale",
+        "Commander's Brigandine",
+        "Battle Lamellar",
+        "Dragonscale Doublet",
+        "Desert Brigandine",
+        "Full Dragonscale",
+        "General's Brigandine",
+        "Triumphant Lamellar",
+        "Light Brigandine",
+        "Scale Doublet",
+        "Infantry Brigandine",
+        "Full Scale Armour",
+        "Soldier's Brigandine",
+        "Field Lamellar",
+        "Wyrmscale Doublet",
+        "Hussar Brigandine",
+        "Sacrificial Garb",
+        "Grasping Mail",
+        "Chainmail Vest",
+        "Ornate Ringmail",
+        "Chain Hauberk",
+        "Devout Chainmail",
+        "Loricated Ringmail",
+        "Conquest Chainmail",
+        "Elegant Ringmail",
+        "Saint's Hauberk",
+        "Saintly Chainmail",
+        "Chainmail Tunic",
+        "Ringmail Coat",
+        "Chainmail Doublet",
+        "Full Ringmail",
+        "Full Chainmail",
+        "Holy Chainmail",
+        "Latticed Ringmail",
+        "Crusader Chainmail",
+        "Kaom's Plate"
+      ]
+    },
+    "quiver": {
+      "3x2": [
+        "Cured Quiver",
+        "Fire Arrow Quiver",
+        "Broadhead Arrow Quiver",
+        "Penetrating Arrow Quiver",
+        "Spike-Point Arrow Quiver",
+        "Ornate Quiver",
+        "Rugged Quiver",
+        "Conductive Quiver",
+        "Heavy Quiver",
+        "Light Quiver",
+        "Serrated Arrow Quiver",
+        "Two-Point Arrow Quiver",
+        "Sharktooth Arrow Quiver",
+        "Blunt Arrow Quiver",
+        "Artillery Quiver",
+        "Serrated Arrow Quiver"
+      ]
+    },
+    "gloves": {
+      "2x2": [
+        "Gripped Gloves",
+        "Fingerless Silk Gloves",
+        "Spiked Gloves",
+        "Apothecary's Gloves",
+        "Golden Bracers",
+        "Rawhide Gloves",
+        "Goathide Gloves",
+        "Deerskin Gloves",
+        "Nubuck Gloves",
+        "Eelskin Gloves",
+        "Sharkskin Gloves",
+        "Shagreen Gloves",
+        "Stealth Gloves",
+        "Slink Gloves",
+        "Wrapped Mitts",
+        "Strapped Mitts",
+        "Clasped Mitts",
+        "Trapper Mitts",
+        "Ambush Mitts",
+        "Carnal Mitts",
+        "Assassin's Mitts",
+        "Murder Mitts",
+        "Gauche Gloves",
+        "Southswing Gloves",
+        "Sinistral Gloves",
+        "Runic Gloves",
+        "Runic Gages",
+        "Runic Gauntlets",
+        "Wool Gloves",
+        "Velvet Gloves",
+        "Silk Gloves",
+        "Embroidered Gloves",
+        "Satin Gloves",
+        "Samite Gloves",
+        "Conjurer Gloves",
+        "Arcanist Gloves",
+        "Sorcerer Gloves",
+        "Leyline Gloves",
+        "Aetherwind Gloves",
+        "Nexus Gloves",
+        "Iron Gauntlets",
+        "Plated Gauntlets",
+        "Bronze Gauntlets",
+        "Steel Gauntlets",
+        "Antique Gauntlets",
+        "Ancient Gauntlets",
+        "Goliath Gauntlets",
+        "Vaal Gauntlets",
+        "Titan Gauntlets",
+        "Fishscale Gauntlets",
+        "Ironscale Gauntlets",
+        "Bronzescale Gauntlets",
+        "Steelscale Gauntlets",
+        "Serpentscale Gauntlets",
+        "Wyrmscale Gauntlets",
+        "Hydrascale Gauntlets",
+        "Dragonscale Gauntlets",
+        "Chain Gloves",
+        "Ringmail Gloves",
+        "Mesh Gloves",
+        "Riveted Gloves",
+        "Zealot Gloves",
+        "Soldier Gloves",
+        "Legion Gloves",
+        "Crusader Gloves",
+        "Taxing Gauntlets",
+        "Gruelling Gauntlets",
+        "Debilitation Gauntlets"
+      ]
+    },
+    "belt": {
+      "1x2": [
+        "Rustic Sash",
+        "Chain Belt",
+        "Leather Belt",
+        "Heavy Belt",
+        "Cloth Belt",
+        "Studded Belt",
+        "Stygian Vise",
+        "Vanguard Belt",
+        "Crystal Belt",
+        "Golden Obi",
+        "Micro-Distillery Belt",
+        "Mechalarm Belt",
+        "Leather Belt",
+        "Heavy Belt",
+        "Cloth Belt"
+      ]
+    }
+  },
+  "max_sets": 12,
+  "tab_index": "0",
+  "boundary_boxes": {
+    "stashbox": [
+      56,
+      273,
+      1286,
+      1499
+    ],
+    "invbox": [
+      2598,
+      1217,
+      3786,
+      1657
+    ]
+  },
+  "empty_inventory": [
+    [
+      [
+        81,
+        118,
+        152,
+        255
+      ],
+      [
+        45,
+        68,
+        78,
+        255
+      ],
+      [
+        0,
+        28,
+        245,
+        255
+      ],
+      [
+        1,
+        1,
+        0,
+        255
+      ],
+      [
+        9,
+        9,
+        9,
+        255
+      ]
+    ],
+    [
+      [
+        7,
+        8,
+        8,
+        255
+      ],
+      [
+        7,
+        8,
+        7,
+        255
+      ],
+      [
+        0,
+        0,
+        0,
+        255
+      ],
+      [
+        10,
+        10,
+        10,
+        255
+      ],
+      [
+        11,
+        10,
+        9,
+        255
+      ]
+    ],
+    [
+      [
+        9,
+        9,
+        9,
+        255
+      ],
+      [
+        11,
+        9,
+        9,
+        255
+      ],
+      [
+        9,
+        9,
+        7,
+        255
+      ],
+      [
+        8,
+        7,
+        6,
+        255
+      ],
+      [
+        7,
+        10,
+        9,
+        255
+      ]
+    ],
+    [
+      [
+        10,
+        8,
+        7,
+        255
+      ],
+      [
+        7,
+        8,
+        9,
+        255
+      ],
+      [
+        8,
+        9,
+        9,
+        255
+      ],
+      [
+        9,
+        9,
+        9,
+        255
+      ],
+      [
+        9,
+        9,
+        9,
+        255
+      ]
+    ],
+    [
+      [
+        5,
+        6,
+        5,
+        255
+      ],
+      [
+        11,
+        9,
+        9,
+        255
+      ],
+      [
+        9,
+        9,
+        8,
+        255
+      ],
+      [
+        8,
+        8,
+        8,
+        255
+      ],
+      [
+        3,
+        3,
+        2,
+        255
+      ]
+    ],
+    [
+      [
+        3,
+        3,
+        2,
+        255
+      ],
+      [
+        1,
+        1,
+        1,
+        255
+      ],
+      [
+        8,
+        9,
+        8,
+        255
+      ],
+      [
+        6,
+        6,
+        6,
+        255
+      ],
+      [
+        1,
+        1,
+        1,
+        255
+      ]
+    ],
+    [
+      [
+        9,
+        7,
+        5,
+        255
+      ],
+      [
+        5,
+        5,
+        6,
+        255
+      ],
+      [
+        5,
+        3,
+        3,
+        255
+      ],
+      [
+        5,
+        5,
+        5,
+        255
+      ],
+      [
+        6,
+        6,
+        6,
+        255
+      ]
+    ],
+    [
+      [
+        7,
+        7,
+        7,
+        255
+      ],
+      [
+        4,
+        4,
+        6,
+        255
+      ],
+      [
+        3,
+        2,
+        2,
+        255
+      ],
+      [
+        8,
+        8,
+        8,
+        255
+      ],
+      [
+        1,
+        1,
+        4,
+        255
+      ]
+    ],
+    [
+      [
+        3,
+        4,
+        4,
+        255
+      ],
+      [
+        8,
+        8,
+        8,
+        255
+      ],
+      [
+        10,
+        9,
+        7,
+        255
+      ],
+      [
+        9,
+        8,
+        6,
+        255
+      ],
+      [
+        5,
+        5,
+        6,
+        255
+      ]
+    ],
+    [
+      [
+        7,
+        7,
+        9,
+        255
+      ],
+      [
+        6,
+        6,
+        5,
+        255
+      ],
+      [
+        5,
+        3,
+        3,
+        255
+      ],
+      [
+        10,
+        7,
+        7,
+        255
+      ],
+      [
+        9,
+        9,
+        7,
+        255
+      ]
+    ],
+    [
+      [
+        6,
+        5,
+        3,
+        255
+      ],
+      [
+        2,
+        2,
+        3,
+        255
+      ],
+      [
+        1,
+        1,
+        1,
+        255
+      ],
+      [
+        3,
+        4,
+        3,
+        255
+      ],
+      [
+        5,
+        4,
+        3,
+        255
+      ]
+    ],
+    [
+      [
+        8,
+        6,
+        4,
+        255
+      ],
+      [
+        3,
+        3,
+        3,
+        255
+      ],
+      [
+        2,
+        2,
+        4,
+        255
+      ],
+      [
+        2,
+        2,
+        2,
+        255
+      ],
+      [
+        1,
+        2,
+        2,
+        255
+      ]
+    ]
+  ],
+  "filter_address": "C:/Users/Fabian/Documents/My Games/Path of Exile/",
+  "filter_name": "FilterBlade",
+  "account_name": "Liberatorist",
+  "session_id": "09478d30efaec3ddbb00b90658eef0e7",
+  "item_locations": {
+    "chaos": {
+      "60": {
+        "bow": {
+          "3x2": [],
+          "4x2": []
+        },
+        "onehand": {
+          "2x2": [],
+          "3x1": [
+            [
+              4,
+              13
+            ],
+            [
+              4,
+              18
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              6,
+              21
+            ]
+          ],
+          "3x2": [],
+          "4x1": []
+        },
+        "twohand": {
+          "4x1": [],
+          "4x2": []
+        },
+        "ring": {
+          "1x1": []
+        },
+        "amulet": {
+          "1x1": [
+            [
+              2,
+              16
+            ]
+          ]
+        },
+        "boots": {
+          "2x2": [
+            [
+              4,
+              16
+            ],
+            [
+              2,
+              8
+            ],
+            [
+              10,
+              0
+            ],
+            [
+              5,
+              13
+            ],
+            [
+              10,
+              6
+            ],
+            [
+              2,
+              14
+            ],
+            [
+              2,
+              20
+            ],
+            [
+              7,
+              20
+            ]
+          ]
+        },
+        "helmet": {
+          "2x2": [
+            [
+              7,
+              22
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              2,
+              10
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              7,
+              13
+            ],
+            [
+              7,
+              18
+            ],
+            [
+              4,
+              21
+            ]
+          ]
+        },
+        "body_armour": {
+          "3x2": [
+            [
+              4,
+              0
+            ],
+            [
+              8,
+              15
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              5,
+              18
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              9,
+              21
+            ],
+            [
+              6,
+              3
+            ],
+            [
+              6,
+              8
+            ],
+            [
+              2,
+              17
+            ]
+          ]
+        },
+        "quiver": {
+          "3x2": []
+        },
+        "gloves": {
+          "2x2": [
+            [
+              8,
+              6
+            ],
+            [
+              2,
+              22
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              9,
+              13
+            ],
+            [
+              4,
+              6
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              6,
+              16
+            ]
+          ]
+        },
+        "belt": {
+          "1x2": [
+            [
+              0,
+              23
+            ],
+            [
+              3,
+              12
+            ],
+            [
+              9,
+              8
+            ],
+            [
+              4,
+              23
+            ],
+            [
+              5,
+              15
+            ]
+          ]
+        }
+      },
+      "75": {
+        "bow": {
+          "3x2": [],
+          "4x2": []
+        },
+        "onehand": {
+          "2x2": [],
+          "3x1": [
+            [
+              14,
+              0
+            ],
+            [
+              13,
+              2
+            ]
+          ],
+          "3x2": [],
+          "4x1": []
+        },
+        "twohand": {
+          "4x1": [],
+          "4x2": []
+        },
+        "ring": {
+          "1x1": []
+        },
+        "amulet": {
+          "1x1": [
+            [
+              0,
+              12
+            ]
+          ]
+        },
+        "boots": {
+          "2x2": [
+            [
+              12,
+              0
+            ],
+            [
+              0,
+              9
+            ],
+            [
+              1,
+              12
+            ]
+          ]
+        },
+        "helmet": {
+          "2x2": [
+            [
+              13,
+              13
+            ],
+            [
+              0,
+              19
+            ],
+            [
+              2,
+              3
+            ]
+          ]
+        },
+        "body_armour": {
+          "3x2": [
+            [
+              13,
+              20
+            ],
+            [
+              12,
+              15
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              11,
+              2
+            ],
+            [
+              10,
+              15
+            ],
+            [
+              2,
+              5
+            ]
+          ]
+        },
+        "quiver": {
+          "3x2": []
+        },
+        "gloves": {
+          "2x2": [
+            [
+              13,
+              18
+            ],
+            [
+              11,
+              21
+            ]
+          ]
+        },
+        "belt": {
+          "1x2": [
+            [
+              0,
+              11
+            ]
+          ]
+        }
+      }
+    },
+    "jewel": [
+      {
+        "coords": [
+          4,
+          11
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          8,
+          8
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          12
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      }
+    ],
+    "flask": [],
+    "gem": [],
+    "vendor": [
+      {
+        "coords": [
+          9,
+          18
+        ],
+        "dim": [
+          2,
+          3
+        ]
+      },
+      {
+        "coords": [
+          12,
+          11
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          12,
+          5
+        ],
+        "dim": [
+          2,
+          3
+        ]
+      },
+      {
+        "coords": [
+          11,
+          13
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      }
+    ],
+    "prophecy": [],
+    "heist": [],
+    "misc": [
+      {
+        "coords": [
+          22,
+          9
+        ],
+        "dim": [
+          2,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          4
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          23
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          5
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          3,
+          13
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          17
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          23,
+          6
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          11,
+          8
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          23
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          12
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          5
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          21
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          11,
+          18
+        ],
+        "dim": [
+          2,
+          3
+        ]
+      },
+      {
+        "coords": [
+          22,
+          6
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          20
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          20
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          15
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          22,
+          19
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          23,
+          19
+        ],
+        "dim": [
+          1,
+          1
+        ]
+      },
+      {
+        "coords": [
+          22,
+          10
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          22,
+          13
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      },
+      {
+        "coords": [
+          22,
+          7
+        ],
+        "dim": [
+          2,
+          2
+        ]
+      }
+    ]
+  }
+}
